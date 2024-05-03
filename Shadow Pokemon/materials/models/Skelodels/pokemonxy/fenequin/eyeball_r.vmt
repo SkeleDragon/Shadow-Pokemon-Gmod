@@ -1,0 +1,6 @@
+"Eyes"
+{
+	"$baseTexture"	"models\Skelodels\PokemonXY\fenequin\pm0717_00_Eye"
+	"$iris"			"models\Skelodels\PokemonXY\fenequin\pupil_r"
+	"$halflambert"	"1"
+}

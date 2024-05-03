@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\Skelodels\PokemonXY\fennaqin\pm0717_00_Eye"
+	"$halflambert"	"1"
+	"$translucent"	"1"
+}
