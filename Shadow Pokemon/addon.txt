@@ -5,7 +5,7 @@
 	"up_date"		""
 	"author_name"	"SkeleDragon"
 	"author_email"	"n/a"
-	"author_url"	"https://github.com/SkeleDragon/Shadow-Pokemon-Gmod/edit/main/Shadow%20Pokemon"
+	"author_url"	"https://github.com/SkeleDragon/Shadow-Pokemon-Gmod"
 	
 	"info"		"Recolors of several different pokemon ragdoll ports."
 
