@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/ModGon/pokemon/Jikal/Lugia_E2"
+	"$halflambert"	"1"
+	"$selfillum"	"1"
+}

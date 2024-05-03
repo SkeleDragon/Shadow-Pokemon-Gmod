@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/SkeleDmodels/pokemon/gen 1/Skelix/pm0037_61_Eye1"
+	"$halflambert"	"1"
+	"$selfillum" "1"
+	"$selfillummask" "models/SkeleDmodels/pokemon/gen 1/Skelix/pm0037_61_Eye1mask"
+}

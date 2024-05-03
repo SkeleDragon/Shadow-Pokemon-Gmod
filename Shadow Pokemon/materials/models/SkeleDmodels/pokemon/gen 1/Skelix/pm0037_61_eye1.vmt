@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/SkeleDmodels/pokemon/gen 1/Skelix/pm0037_61_Eye1"
+ 	"$bumpmap" "models/SkeleDmodels/pokemon/phong"
+	"$halflambert"	"1"
+	"$selfillum" "1"
+	"$selfillummask" "models/SkeleDmodels/pokemon/gen 1/Skelix/pm0037_61_Eye1mask"
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "0"
+	"$phongfresnelranges" "[.3 1 8]"
+	"$lightwarptexture" "models/SkeleDmodels/pokemon/lightwarp"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "8"
+	"$rimlightboost" "0"
+
+	"$ambientocclusion" "1"
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/ModGon/pokemon/Jikal/Lugia_E2"
+	"$basetexturetransform" "center .0 .0 scale 1 1 rotate 0 translate .0 .66"
+	"$halflambert"	"1"
+	"$selfillum"	"1"
+}
