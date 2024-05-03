@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	$baseTexture "overlays/Metal/Shiny"
+
+	$envmap "env_cubemap"
+	$envmaptint "[1 1 1]" 
+	$envmapcontrast 0.2
+	$envmapsaturation 0.5
+}
