@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\skelodels\Pokemon\Blodphy\ManaphyEye"
+	"$halflambert"	"1"
+	"$selfillum"	"1"
+	"$selfillummask"  "models\skelodels\Pokemon\Blodphy\ManaphyEyeGlow"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\Skelodels\Pokemon\Bloodeon\ShowersFillet"
+	"$halflambert"	"1"
+	"$alphatest"	"1"
+}

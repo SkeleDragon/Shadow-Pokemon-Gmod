@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\Skelodels\Pokemon\Bloodrivr\JalordaBody"
+	"$halflambert"	"1"
+}
