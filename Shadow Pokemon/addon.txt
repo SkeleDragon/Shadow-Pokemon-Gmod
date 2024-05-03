@@ -1,0 +1,17 @@
+"AddonInfo"
+{
+	"name"			"Skellix and Skeletales"
+	"version"		""
+	"up_date"		""
+	"author_name"	"SkeleDragon"
+	"author_email"	"n/a"
+	"author_url"	"n/a"
+	
+	"info"		"Recolor of RTB's Vulpix and Ninetales ragdoll port."
+
+	"override"	"0"
+	
+	"GCFRequires"
+	{
+	}
+}
