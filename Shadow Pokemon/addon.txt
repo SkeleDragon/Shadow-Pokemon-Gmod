@@ -1,13 +1,13 @@
 "AddonInfo"
 {
-	"name"			"Skellix and Skeletales"
+	"name"			"Shadow Pokemon"
 	"version"		""
 	"up_date"		""
 	"author_name"	"SkeleDragon"
 	"author_email"	"n/a"
-	"author_url"	"n/a"
+	"author_url"	"https://github.com/SkeleDragon/Shadow-Pokemon-Gmod/edit/main/Shadow%20Pokemon"
 	
-	"info"		"Recolor of RTB's Vulpix and Ninetales ragdoll port."
+	"info"		"Recolors of several different pokemon ragdoll ports."
 
 	"override"	"0"
 	
