@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\Skelodels\Pokemon\TenebriNox\DesukarnEye"
+	"$halflambert"	"1"
+	"$selfillum"	"1"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\RTBModels\Pokemon\u\uDkGrey"
+	"$halflambert"	"1"
+}

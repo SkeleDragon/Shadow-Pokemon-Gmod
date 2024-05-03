@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\Skelodels\Pokemon\Skiceon\GlaciaMouth_Shiny"
+	"$halflambert"	"1"
+}
