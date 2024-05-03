@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/modgon/pokemon/dritwo-mx/pm0150_51_Eye1"
+	"$halflambert"	"1"
+	"$selfillum"	"1"
+}
