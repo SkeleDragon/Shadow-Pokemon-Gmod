@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\SkelModels\Pokemon\Himeguma"
+	"$halflambert"	"1"
+	"$selfillum"	"1"
+	"$selfillummask"  "models/SkelModels/pokemon/HimegumaGlow"
+}

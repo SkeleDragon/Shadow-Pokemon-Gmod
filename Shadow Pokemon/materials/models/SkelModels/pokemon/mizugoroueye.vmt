@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\apocmodels\Pokemon\MizugorouEye"
+	"$halflambert"	"1"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/apocmodels/pokemon/KucheatEye"
+	"$halflambert"	"1"
+}

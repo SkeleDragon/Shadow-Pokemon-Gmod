@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\SkelModels\Pokemon\HimegumaMouth"
+	"$halflambert"	"1"
+}

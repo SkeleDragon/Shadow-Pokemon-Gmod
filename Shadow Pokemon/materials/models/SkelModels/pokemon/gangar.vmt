@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Skelmodels/pokemon/Gangar"
+	"$halflambert"	"1"
+	"$nocull" 1
+}
