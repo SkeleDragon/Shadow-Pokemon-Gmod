@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\ApocModels\Pokemon\Ringuma"
+	"$halflambert"	"1"
+}

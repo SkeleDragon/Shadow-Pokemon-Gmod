@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\SkelModels\Pokemon\RioluEye"
+	"$halflambert"	"1"
+	"$selfillum"	"1"
+	"$selfillummask"  "models\SkelModels\Pokemon\RioluEyeGlow"
+}
