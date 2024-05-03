@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\Skelodels\Pokemon\Nymphiaa\MijumaruEye"
+	"$halflambert"	"1"
+	"$selfillum"	"1"
+}

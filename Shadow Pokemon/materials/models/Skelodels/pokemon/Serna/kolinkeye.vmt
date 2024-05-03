@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\Skelodels\Pokemon\Serna\KolinkEye"
+	"$halflambert"	"1"
+	"$selfillum"	"1"
+}

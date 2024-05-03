@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\Skelodels\Pokemon\Shivi\TsutarjaBody"
+	"$halflambert"	"1"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\skelodels\Pokemon\Greyphy\ManaphyMouth"
+	"$halflambert"	"1"
+}
