@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\Skelodels\Pokemon\Despeon\BlackyEye2"
+	"$halflambert"	"1"
+
+	"$selfillum"		"1"
+	"$selfillummask"	"models\Skelodels\Pokemon\Despeon\BlackyEye2_Illum"
+}

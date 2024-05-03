@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\skelodels\Pokemon\Darkon\EifieMouth"
+	"$halflambert"	"1"
+}

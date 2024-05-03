@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"models\Skelodels\Pokemon\Dri\MewEye"
+	"$bumpmap"				"models\Skelodels\Pokemon\Dri\MewEye_n"
+	"$halflambert"			"1"
+
+ 	"$phong"				"1"
+	"$phongboost"			"2"
+	"$phongexponent"		"2"
+	"$phongfresnelranges"	"[.15 .35 1]"
+	"$selfillum"	"1"
+	"$selfillummask"  "models\Skelodels\Pokemon\Dri\MewEyeGlow"
+}

@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"models\Skelodels\Pokemon\Detara\DesumasuEye"
+	"$bumpmap"				"models\Skelodels\Pokemon\Phong"
+	"$halflambert"			"1"
+
+	"$phong"				"1"
+	"$phongalbedotint"		"1"
+	"$phongboost"			"5"
+	"$phongexponent"		"6"
+	"$phongexponenttexture"	"models\Skelodels\Pokemon\AlbedoTint"
+	"$phongfresnelranges"	"[0.1 1 8]"
+
+	"$rimlight"				"1"
+	"$rimlightboost"		"0.5"
+	"$selfillum	"		"1"
+}

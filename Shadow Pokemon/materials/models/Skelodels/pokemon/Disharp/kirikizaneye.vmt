@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\Skelodels\Pokemon\Disharp\KirikizanEye"
+	"$halflambert"	"1"
+	"$selfillum"	"1"
+}
